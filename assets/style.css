@@ -1,0 +1,36 @@
+.allContainter {
+    width: 90%;
+    margin: 0 auto;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 5px;
+    box-shadow: 0 0 5px 0 #dedede;
+    padding: 0.65em 0.75em;
+    background: #636EFA;
+}
+
+h4 {
+    color: #fff;
+    margin: 0 !important;
+}
+
+#dropdown {
+    margin-top: 100px;
+}
+
+.btn {
+    display: inline-block;
+    padding: 0.65em 0.75em;
+    border-radius: 5px;
+    background: transparent;
+    border: 1px solid #eee;
+    cursor: pointer;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
